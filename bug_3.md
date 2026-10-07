@@ -16,7 +16,7 @@
 Форма принимает значение и отправляет заявку.
 
 ## Severity
-Medium
+Minor
 
 ## Priority
 Medium
